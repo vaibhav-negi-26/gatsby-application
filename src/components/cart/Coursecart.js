@@ -37,7 +37,7 @@ export default class Coursecart extends Component {
                                             className="btn btn-warning snipcart-add-item"
                                             data-item-id={node.id}
                                             data-item-price={node.price}
-                                            data-item-url="https://www.google.co.in/"
+                                            data-item-url="https://adoring-wilson-c59976.netlify.app/"
                                             data-item-image={node.image.fixed.src}
                                             data-item-name={node.title}>
                                                 Join Now
