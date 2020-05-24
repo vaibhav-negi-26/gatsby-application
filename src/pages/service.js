@@ -10,7 +10,7 @@ import Teamcard from "../components/About/Teamcard"
 
 const AboutPage = ({data}) => (
   <Layout>
-    <SEO title="About" />
+    <SEO title="Services" />
     <HeroSection 
     img = {data.img.childImageSharp.fluid}
     title = "Services"
